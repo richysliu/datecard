@@ -1,0 +1,34 @@
+body {
+    background-color: #ffc0cb; /* Pink background color */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+}
+
+.center-image {
+    max-width: 100%;
+    height: auto;
+}
+
+.invitation-text {
+    font-size: 1.5em;
+    margin-top: 20px;
+}
+
+.buttons {
+    margin-top: 20px;
+}
+
+button {
+    font-size: 1.2em;
+    padding: 10px 20px;
+    margin: 0 10px;
+    cursor: pointer;
+}
+
